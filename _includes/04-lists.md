@@ -8,4 +8,5 @@
 1. Manchested United
 2. Real Madrid
 3. Barcelona
- 3i. Chelsea
+   - Chelsea
+   - Bayern Munich
